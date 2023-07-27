@@ -1,0 +1,8 @@
+C:\dialytask\Assisted Practice\Insertionsort\bin\Debug\Insertionsort.exe.config
+C:\dialytask\Assisted Practice\Insertionsort\bin\Debug\Insertionsort.exe
+C:\dialytask\Assisted Practice\Insertionsort\bin\Debug\Insertionsort.pdb
+C:\dialytask\Assisted Practice\Insertionsort\obj\Debug\Insertionsort.csproj.AssemblyReference.cache
+C:\dialytask\Assisted Practice\Insertionsort\obj\Debug\Insertionsort.csproj.SuggestedBindingRedirects.cache
+C:\dialytask\Assisted Practice\Insertionsort\obj\Debug\Insertionsort.csproj.CoreCompileInputs.cache
+C:\dialytask\Assisted Practice\Insertionsort\obj\Debug\Insertionsort.exe
+C:\dialytask\Assisted Practice\Insertionsort\obj\Debug\Insertionsort.pdb
